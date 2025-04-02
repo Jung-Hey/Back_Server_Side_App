@@ -60,9 +60,8 @@ Our team's topic was to rebuild a Starbucks store based on a design that took in
 - BackEnd Developer
 	- 상품, 리뷰, 장바구니, 배너, 기획전, 주문, 베스트 상품
 	- Product, Review, Cart, Banner(in main page), Exhibitions, Purchase, Best(in product)
-	- **Spring Batch (To Aggregate Data: 데이터 집계 용)**
 	- **Redis (To Resolving DB concurrency issue by Implementing Facade)**<br>
-      **Redis를 활용한 Facade 패턴 구현을 통한  DB 동시성 문제 해결**
+      **Redis를 활용해 DB 동시성 작업**
 
 </div>
 
